@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  permitable: one
+  permitable_type: Permitable
+  user: one
+
+two:
+  permitable: two
+  permitable_type: Permitable
+  user: two
